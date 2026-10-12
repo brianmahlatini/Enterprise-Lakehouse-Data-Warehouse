@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+dist/
+data/raw/*.csv
+data/raw/*.jsonl
+data/raw/manifest.json
+data/lakehouse/
+data/warehouse/
+*.log
